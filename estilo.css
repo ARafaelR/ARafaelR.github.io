@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: rgb(255, 218, 185);
+    background: #f6c1db;
 }
 
 .face {
@@ -25,7 +25,7 @@ body {
       width: 300px;
       height: 300px;
       border-radius: 50%;
-    background: #ffdab9;
+    background: #f6c1db;
     justify-content: center;
     align-items: center;
 }
