@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: pink;
+    background-color: #fdddca;
 }
 
 .face {
@@ -25,7 +25,7 @@ body {
       width: 300px;
       height: 300px;
       border-radius: 50%;
-    background-color: pink;
+    background-color: #fdddca;
     justify-content: center;
     align-items: center;
 }
